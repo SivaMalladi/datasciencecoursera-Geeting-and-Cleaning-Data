@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Course Project
 **StudentName**: Sivaraman Malldi  
-**Suuporting Docs**: codebook.md
+**Supporting Docs**: codebook.md  run_analysis.R
 
 ### Overview
 Thirty subjects(persons) of various age groups were tracked using wearable devices for six activities and collected various measures over a period of time and stored in different datasets.  
